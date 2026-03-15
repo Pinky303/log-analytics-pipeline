@@ -1,0 +1,27 @@
+# Environment — NEVER commit real credentials
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Generated data files
+logs.json
+*.json
+!databricks_jobs/pipeline_workflow.json
+
+# IDE
+.vscode/
+.idea/
+
+# Spark / Delta local artifacts
+spark-warehouse/
+derby.log
+metastore_db/
