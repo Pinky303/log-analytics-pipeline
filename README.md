@@ -1,7 +1,7 @@
 # 🚀 Real-Time Log Analytics Pipeline
 
-> An end-to-end data engineering project built on **AWS + Databricks + PySpark + Delta Lake**
-> Author: Pinky Somwani | Built during notice period as EY onboarding preparation
+> An end-to-end data engineering project built on **AWS + Databricks + PySpark + SQL + Delta Lake**
+> Author: Pinky Somwani 
 
 ---
 
@@ -236,4 +236,4 @@ Open `databricks_jobs/databricks_sql_pipeline.sql` in Databricks SQL Editor and 
 ---
 
 *Built during notice period as hands-on preparation for a Data Engineering role .*
-*Tech Stack: AWS S3 · Databricks · PySpark · Delta Lake · SQL*
+
