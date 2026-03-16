@@ -235,5 +235,5 @@ Open `databricks_jobs/databricks_sql_pipeline.sql` in Databricks SQL Editor and 
 
 ---
 
-*Built during notice period as hands-on preparation for a Data Engineering role at EY.*
-*Stack: AWS S3 · Databricks · PySpark · Delta Lake · SQL*
+*Built during notice period as hands-on preparation for a Data Engineering role .*
+*Tech Stack: AWS S3 · Databricks · PySpark · Delta Lake · SQL*
